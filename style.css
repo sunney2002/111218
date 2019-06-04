@@ -1,0 +1,19 @@
+.first{
+	height: 120px;
+}
+.second{
+	height: 700px;
+}
+body{
+	background-image: url(banner.jpg);
+}
+.thirt{
+	height:50px; 
+}
+.fifth{
+	height: 250px;
+}
+.bg{
+	background-image: url(banner.jpg);
+	background-size: 100%;
+}
